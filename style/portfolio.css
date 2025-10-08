@@ -3,3 +3,35 @@ body{
     font-family: Georgia, serif;
     background: linear-gradient(0deg,#000000,#003974);
 }
+
+#titulo{
+    font-size:130px;
+    margin: 0%;
+}
+
+.imagem{
+    text-align:left;
+    margin: 10px;
+    border: 25px;
+    padding: 0px;
+    border-style: solid;
+    border-color: #002348;
+    text-align: center;
+}
+
+#sobreMim{
+    display: flex;
+    justify-content: center;
+    padding-top: 70px;
+}
+
+.caixaTexto{
+    display: flex;
+    flex-direction: column;
+    padding-left: 50px;
+    width: 50%;
+}
+
+.textoIrformacoes{
+    width: 80%;
+}
