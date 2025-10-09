@@ -4,10 +4,17 @@ body{
     background: linear-gradient(0deg,#000000,#003974);
 }
 
-#titulo{
+.titulo{
     font-size:130px;
     margin: 0%;
 }
+
+.titulo2{
+    padding-top: 30px;
+    font-size:100px;
+    margin: 0%;
+}
+
 
 .imagem{
     text-align:left;
