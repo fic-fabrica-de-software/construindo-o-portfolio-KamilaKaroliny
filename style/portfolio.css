@@ -19,19 +19,53 @@ body{
     text-align: center;
 }
 
-#sobreMim{
+.flex{
     display: flex;
     justify-content: center;
+}
+
+.sobreMim{
+    display: flex;
     padding-top: 70px;
+    padding-bottom: 50px;
+    width: 76%;
 }
 
 .caixaTexto{
     display: flex;
     flex-direction: column;
     padding-left: 50px;
-    width: 50%;
 }
 
 .textoIrformacoes{
-    width: 80%;
+    width: 88%;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 19px;
+}
+
+.Subtitulo{
+    font-size:35px;
+    margin: 0%;
+    padding-top: 8%;
+}
+
+.icones{
+    width: 65%;
+    height: 60px;
+    padding-top: 20px;
+    padding-left: 80px;
+}
+
+.recuo{
+    text-indent: 2em;
+}
+
+.recuo2{
+    text-indent: 10em;
+}
+
+.esticadinho{
+    background-color: #000000;
+    width: 1899px;
+    height: 10px;
 }
