@@ -1,7 +1,7 @@
 body{
     color: #ffffff;
     font-family: Georgia, serif;
-    background: linear-gradient(0deg,#000000,#003974);
+    background-image:radial-gradient(circle,#000000,#003974);
 }
 
 .titulo{
