@@ -2,7 +2,7 @@ body{
     color: #ffffff;
     font-family: Georgia, serif;
     background-size: cover;
-    background-image:radial-gradient(circle,#000000,#003974) , url(../assets/icones/flor.png);
+    background-image:radial-gradient(circle,#000000,#003974), url(../assets/icones/flor.png);
     background-blend-mode: screen;
 }
 
